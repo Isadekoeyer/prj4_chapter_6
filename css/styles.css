@@ -1,9 +1,14 @@
 @charset "utf-8";
-body { font-family: Fira sans; 
-	background-color: #d0d0ff; } 
+body { font-family: Fira sans;
+	color: #F3CCE0;
+	background-color: #122237; 
+	padding: 10px 10px 10px 30px} 
 
 h1 { font-size: 20px; margin: 1em 0; } 
 
 p { line-height: 1.4; } 
 
 a { color: #ff8000; }
+
+#logo {
+	padding-top: 60px;}
