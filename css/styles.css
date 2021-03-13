@@ -13,4 +13,6 @@ a { color: #ff8000; }
 #logo {
 	padding-top: 60px;}
 
-footer { text-align: right; }
+.responsive { width: 100%;
+  height: auto;}
+
