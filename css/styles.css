@@ -1,18 +1,39 @@
 @charset "utf-8";
-body { font-family: Fira sans;
-	color: #F3CCE0;
-	background-color: #122237; 
-	padding: 10px 10px 10px 30px} 
 
-h1 { font-size: 20px; margin: 1em 0; } 
+body { font-family: 'Fira Sans', sans-serif;
+	color: black;
+	background-color: floralwhite; 
+	} 
 
-p { line-height: 1.4; } 
+body, html {
+  height: 100%;
+}
 
-a { color: #ff8000; }
+.jumbotron { margin-top: 80px; 
+text-align: center;
+color:green;}
 
-#logo {
-	padding-top: 60px;}
+.bg { 
+  /* The image used */
+  background-image: url("../images/stardewvalley3.jpg");
 
-.responsive { width: 100%;
-  height: auto;}
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ 
+h5 { margin-top:30px; }
+
+#image { margin-top: 50px;}
+
+
+a { color: #B52121; }
+
+footer {background-color: #DDA059;}
+
+
 
